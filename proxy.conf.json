@@ -1,0 +1,12 @@
+{
+  "/static/app1": {
+    "target": "http://localhost:4201/",
+    "secure": false,
+    "changeOrigin": false
+  },
+  "/static/app2": {
+    "target": "http://localhost:4202/",
+    "secure": false,
+    "changeOrigin": false
+  }
+}
